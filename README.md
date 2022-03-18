@@ -1,5 +1,3 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # Expanding Cards
 
 > This is a project showing how to build expanding sections like testimonials or to showcase images
@@ -12,7 +10,7 @@
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://frosty-benz-06eb04.netlify.app/)
 
 
 ## Authors
